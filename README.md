@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personal projects<br>👯 I’m looking to collaborate with teen developers for projects<br><br>🌱 I’m currently learning django and Arduino<br><br>⚡ Fun fact i love talking about tech and politics
+🔭 I’m currently working on Weather App <br>👯 I’m looking to collaborate with teen developers for projects<br><br>🌱 I’m currently learning django and Arduino<br><br>⚡ Fun fact i love talking about tech and politics
 
 
 ## 🌐 Socials:
