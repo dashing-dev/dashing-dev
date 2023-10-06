@@ -1,3 +1,5 @@
+[![An image of @dashingdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dashingdev)](https://holopin.io/@dashingdev)
+
 # 💫 About Me:
 🔭 I’m currently working on real time chat application<br>👯 I’m looking to collaborate on word counter<br>🌱 I’m currently learning Django and Arduino<br>💬 Ask me about anything<br>⚡ Fun fact i love talking about tech and politics
 
